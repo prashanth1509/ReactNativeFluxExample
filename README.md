@@ -14,7 +14,7 @@ Please ensure [these requirements](http://facebook.github.io/react-native/docs/g
 git clone git@github.com:prashanth1509/ReactNativeFluxExample.git
 cd ReactNativeFluxExample
 npm install
-npm start
+open ios/ReactNativeFluxExample.xcodeproj && npm start
 ```
 
 * Double click ios/ReactNativeFluxExample.xcodeproj and opens in Xcode
