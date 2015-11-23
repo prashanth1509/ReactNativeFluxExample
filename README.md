@@ -5,6 +5,9 @@ Read about [flux](https://facebook.github.io/flux).
 
 <img src="http://tylermcginnis.com/wp-content/uploads/2015/04/Flux-Diagram-1024x853.png" width="600" alt="http://tylermcginnis.com/wp-content/uploads/2015/04/Flux-Diagram-1024x853.png">
 
+## Requirement
+Please ensure [these requirements](http://facebook.github.io/react-native/docs/getting-started.html#requirements)
+
 ## Install 
 
 ```sh
