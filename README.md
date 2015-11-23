@@ -11,6 +11,7 @@ Read about [flux](https://facebook.github.io/flux).
 git clone git@github.com:prashanth1509/ReactNativeFluxExample.git
 cd ReactNativeFluxExample
 npm install
+npm start
 ```
 
 * Double click ios/ReactNativeFluxExample.xcodeproj and opens in Xcode
@@ -18,6 +19,12 @@ npm install
 * Incase you get an exception during build saying */bin/sh failed at react-native-xcode.sh*
   * Add ```source ~/.bash_profile``` before line 45 (where react-native .. is called) at node_modules/react-native/packager/react-native-xcode.sh
 * You can press cmd+cnt+x to enable remote debugging.
+
+## About this example
+* Uses flux architecture (View -> (Action)Dispatcher -> Store -> .. View)
+* States are removed (and replaced with light weight internal state) and need not be specified when creating stores. 
+* Fetch api (sync and async) see [Docs](https://facebook.github.io/react-native/docs/network.html)
+* class syntax and functional components
 
 ## Dependencies
 * "react-native": "^0.14.2",
