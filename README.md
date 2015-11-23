@@ -1,9 +1,9 @@
 # ReactNativeFluxExample
 Example app demonstrating flux architecture in react native.
 
-Read about [flux](https://facebook.github.io/flux) here.
+Read about [flux](https://facebook.github.io/flux).
 
-![alt tag](http://tylermcginnis.com/wp-content/uploads/2015/04/Flux-Diagram-1024x853.png)
+<img src="http://tylermcginnis.com/wp-content/uploads/2015/04/Flux-Diagram-1024x853.png" width="600" alt="http://tylermcginnis.com/wp-content/uploads/2015/04/Flux-Diagram-1024x853.png">
 
 ## Install 
 
