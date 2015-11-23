@@ -11,6 +11,7 @@ Read about [flux](https://facebook.github.io/flux).
 git clone git@github.com:prashanth1509/ReactNativeFluxExample.git
 cd ReactNativeFluxExample
 npm install
+npm start
 ```
 
 * Double click ios/ReactNativeFluxExample.xcodeproj and opens in Xcode
