@@ -8,6 +8,6 @@
   "dependencies": {
     "keymirror": "^0.1.1",
     "react-native": "^0.14.2",
-    "react-native-phrontend": "git+ssh://git@github.com/Flipkart/react-native-phrontend.git#v1"
+    "react-native-phrontend": "git+ssh://git@github.com/Flipkart/react-native-phrontend.git#master"
   }
 }
