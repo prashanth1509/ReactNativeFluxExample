@@ -20,6 +20,12 @@ npm start
   * Add ```source ~/.bash_profile``` before line 45 (where react-native .. is called) at node_modules/react-native/packager/react-native-xcode.sh
 * You can press cmd+cnt+x to enable remote debugging.
 
+## About this example
+* Uses flux architecture (View -> (Action)Dispatcher -> Store -> .. View)
+* States are removed (and replaced with light weight internal state) and need not be specified when creating stores. 
+* Fetch api (sync and async) see [Docs](https://facebook.github.io/react-native/docs/network.html)
+* class syntax and functional components
+
 ## Dependencies
 * "react-native": "^0.14.2",
 * "react-native-phrontend": "git+ssh://git@github.com/Flipkart/react-native-phrontend.git#v1"
