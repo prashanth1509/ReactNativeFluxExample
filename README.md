@@ -17,8 +17,7 @@ npm install
 open ios/ReactNativeFluxExample.xcodeproj && npm start
 ```
 
-* Double click ios/ReactNativeFluxExample.xcodeproj and opens in Xcode
-* Select ReactNativeFluxExample and click Run on Xcode
+* Run the project on XCode
 * Incase you get an exception during build saying */bin/sh failed at react-native-xcode.sh*
   * Add ```source ~/.bash_profile``` before line 45 (where react-native .. is called) at node_modules/react-native/packager/react-native-xcode.sh
 * You can press cmd+cnt+x to enable remote debugging.
