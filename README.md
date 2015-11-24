@@ -19,8 +19,7 @@ open ios/ReactNativeFluxExample.xcodeproj && npm start
 
 * Run the project on XCode
 * Incase you get an exception during build saying */bin/sh failed at react-native-xcode.sh*
-  * Select ReactNativeFluxExample on XCode -> Build Phase -> Remove last item (that say, Build bundle and images)
-  * node_modules/react-native/packager/react-native-xcode.sh
+  * Select ReactNativeFluxExample on XCode -> Build Phase -> Remove last item (that says 'Build bundle and images')
 * You can press cmd+cnt+x to enable remote debugging.
 
 ## About this example
